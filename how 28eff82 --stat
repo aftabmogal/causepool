@@ -1,0 +1,4 @@
+[33me08be0f[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m Pin Python 3.12 for Render (fix Django 5.0/3.14 incompatibility)
+[33m28eff82[m Fix Vercel SPA routing and admin static file 500 error
+[33m2c72c94[m Add create_admin management command
+[33m047294c[m Initial commit
