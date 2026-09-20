@@ -20,10 +20,7 @@ DB: Postgres (Supabase).
 5. Walk the whole flow live: signup → subscribe → charity → add 5 scores →
    `python manage.py run_draw --method weighted` → publish in `/admin/` →
    confirm winnings show up on the dashboard.
-6. Polish: add 2-3 more charities with images, double-check mobile layout,
-   write the submission doc (live URL, test user creds, admin creds, this
-   README as your architecture writeup).
-7. Submit before the 22 Sept deadline.
+
 
 - **Requirements interpretation**: every PRD section (§04–§11) maps to a
   Django app; the score↔draw connection ambiguity is resolved and documented
